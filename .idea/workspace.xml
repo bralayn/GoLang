@@ -11,20 +11,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5960f21b-a8b7-46d4-b627-38507f5193b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GoLang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_word/hello_github.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_word/hello_github.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello_word/hello_github.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +83,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -107,22 +101,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1571" y="145" key="#go_build_github.com/bralayn/GoLang/hello_word/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1605534819408" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1605535447577">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1605544291163">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1605535447577" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1605535447577">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1605544291163" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1605544291163">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1605535447577" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1605535447577">
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1605544291163" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1605544291163">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1605535447577" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1605535447577">
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1605544291163" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1605544291163">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1605535447577" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1605544291163" />
     <state x="1363" y="162" key="SettingsEditor" timestamp="1605537546394">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
